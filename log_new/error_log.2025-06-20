@@ -1,0 +1,10 @@
+Jun 13 21:56:49 2025] [info] [client 111.225.149.95:0] AH00128: File does not exist: /data/54/1/46/34/1372197/user/1471954/htdocs/RICH/robots.txt
+Jun 20 05:26:12 2025] [info] [client 47.128.61.170:0] AH00128: File does not exist: /data/54/1/46/34/1372197/user/1471954/htdocs/RICH/robots.txt
+Jun 20 11:43:38 2025] [crit] (13)Permission denied: [client 170.244.58.132:0] AH00529: /data/54/1/46/34/1372197/user/1471954/htdocs/staging/.htaccess-ic pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/data/54/1/46/34/1372197/user/1471954/htdocs/staging/' is executable
+Jun 20 12:21:45 2025] [info] [client 54.83.240.58:0] AH00128: File does not exist: /data/54/1/46/34/1372197/user/1471954/htdocs/RICH/robots.txt
+Jun 20 13:44:12 2025] [info] [client 149.4.68.114:0] AH00128: File does not exist: /data/54/1/46/34/1372197/user/1471954/htdocs/RICH/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js, referer https://www.richinc.org/RICH/
+Jun 20 13:44:21 2025] [info] [client 149.4.68.114:0] AH00128: File does not exist: /data/54/1/46/34/1372197/user/1471954/htdocs/RICH/favicon.ico, referer https://www.richinc.org/RICH/contact-us.html
+Jun 20 13:44:20 2025] [info] [client 149.4.68.114:0] AH00128: File does not exist: /data/54/1/46/34/1372197/user/1471954/htdocs/RICH/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js, referer https://www.richinc.org/RICH/contact-us.html
+Jun 20 14:04:37 2025] [info] [client 66.249.66.64:0] AH00128: File does not exist: /data/54/1/46/34/1372197/user/1471954/htdocs/RICH/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js, referer https://www.richinc.org/RICH/index.html
+Jun 20 19:42:53 2025] [info] [client 47.128.36.160:0] AH00128: File does not exist: /data/54/1/46/34/1372197/user/1471954/htdocs/RICH/robots.txt
+Jun 20 20:13:46 2025] [info] [client 17.241.227.211:0] AH00128: File does not exist: /data/54/1/46/34/1372197/user/1471954/htdocs/RICH/sitemap.xml
